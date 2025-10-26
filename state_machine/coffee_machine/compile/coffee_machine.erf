@@ -1,0 +1,8 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: F:/state_machine/coffee_machine/src/state_machine.vhd" 
+MESSAGE "Compile Entity "CoffeeMachine"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "CoffeeMachine"" 
+MESSAGE "File: F:/state_machine/coffee_machine/src/TestBench/coffeemachine_TB.vhd" 
+MESSAGE "Compile Entity "CoffeeMachine_TB"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "CoffeeMachine_TB"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]" 

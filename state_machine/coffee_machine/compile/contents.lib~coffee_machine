@@ -1,0 +1,5 @@
+8
+~E 1 "../src/state_machine.vhd" 5 CoffeeMachine
+~A 1 "../src/state_machine.vhd" 16 Behavioral
+~E 1 "../src/TestBench/coffeemachine_TB.vhd" 4 CoffeeMachine_TB
+~A 1 "../src/TestBench/coffeemachine_TB.vhd" 7 Behavioral

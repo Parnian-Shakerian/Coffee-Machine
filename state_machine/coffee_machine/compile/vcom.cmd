@@ -1,0 +1,1 @@
+-w -erf F:/state_machine/coffee_machine/compile/coffee_machine.erf -d F:/state_machine/coffee_machine/compile -s F:/state_machine/library.cfg -j F:/state_machine/coffee_machine/projlib.cfg -work coffee_machine -O3 -e 100 -work coffee_machine -2002 F:/state_machine/coffee_machine/src/state_machine.vhd F:/state_machine/coffee_machine/src/TestBench/coffeemachine_TB.vhd 

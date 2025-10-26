@@ -1,0 +1,36 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=coffee_machine
+[Library]
+coffee_machine=.\coffee_machine\coffee_machine.lib
+[$LibMap$]
+coffee_machine=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/state_machine.vhd=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+TestBench/coffeemachine_TB.vhd=-1
+TestBench/coffeemachine_TB_runtest.do=-1
+[Files.Data]
+.\src\state_machine.vhd=VHDL Source Code
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+.\src\TestBench\coffeemachine_TB.vhd=VHDL Test Bench
+.\src\TestBench\coffeemachine_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[HierarchyViewer]
+HierarchyInformation=coffeemachine_tb|Behavioral|0
+ShowHide=ShowTopLevel
+Selected=

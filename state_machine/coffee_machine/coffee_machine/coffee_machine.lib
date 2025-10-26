@@ -1,0 +1,36 @@
+timestamp=1687943245032
+
+[~A]
+ModifyID=8
+Version=74
+
+[~MFT]
+0=4|0coffee_machine.mgf|7592|3354
+1=4|1coffee_machine.mgf|20596|19091
+3=4|3coffee_machine.mgf|10425|9527
+
+[coffeemachine]
+A/behavioral=A/Behavioral 21|../src/state_machine.vhd|16|1*19091
+BinW64/behavioral=3*9527
+I=0*693
+I/behavioral=I/Behavioral 0*7293
+M=11|2|vef|1687739728110|../src/state_machine.vhd|0*226*0x3c759e802b69960140c90d21a1bbd097e7a8ba48|0*602*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vef|1687943244839|../src/state_machine.vhd|0*981*0x290288b87ae74136c13eb105338f93802e2ee47b|0*2173*0x20116f55b147878295aeff36dce7fc50
+R=../src/state_machine.vhd|5
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|9339f9e42185852304e27130f58a740b9c0120770ae1aba9e6e1ed5e6188f73c5a8e4f33194d315b3a1fa1ac0b224198
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4bf470de62df0d3db53ffe9322fde64c3
+
+[coffeemachine_tb]
+A/behavioral=A/Behavioral 21|../src/TestBench/coffeemachine_TB.vhd|7|1*20596
+BinW64/behavioral=3*10425
+I=0*3029
+I/behavioral=I/Behavioral 0*7592
+M=11|2|vef|1687739758654|../src/TestBench/coffeemachine_TB.vhd|0*2715*0xc160b9a9249e080973aa6675104dfad728144fb2|0*2922*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vef|1687943244994|../src/TestBench/coffeemachine_TB.vhd|0*3239*0x34d52f6133d5a577bd59f1efd9028c3806667741|0*4117*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/coffeemachine_TB.vhd|4
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|9339f9e42185852304e27130f58a740b9276c6c8d40dff847873267c274858bce56779d66cc8249c6f95a1abe2eca126
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4d83b23288fac14060bba8e6f5b01817d
+
+[~U]
+coffeemachine=CoffeeMachine 11|0*0|
+coffeemachine_tb=CoffeeMachine_TB 11|0*2577|

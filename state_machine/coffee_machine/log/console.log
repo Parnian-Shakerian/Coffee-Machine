@@ -1,0 +1,17 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -e 100 -work coffee_machine -2002  $dsn/src/state_machine.vhd $dsn/src/TestBench/coffeemachine_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: F:/state_machine/coffee_machine/src/state_machine.vhd
+# Compile Entity "CoffeeMachine"
+# Compile Architecture "Behavioral" of Entity "CoffeeMachine"
+# File: F:/state_machine/coffee_machine/src/TestBench/coffeemachine_TB.vhd
+# Compile Entity "CoffeeMachine_TB"
+# Compile Architecture "Behavioral" of Entity "CoffeeMachine_TB"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+# Waveform file 'untitled.awc' connected to 'F:/state_machine/coffee_machine/src/untitled.asdb'.
+# Waveform file 'F:/state_machine/coffee_machine/src/untitled.awc' connected to 'F:/state_machine/coffee_machine/src/untitled.asdb'.
+# Waveform file 'untitled.awc' connected to 'F:/state_machine/coffee_machine/src/untitled.asdb'.
+# Waveform file 'untitled.awc' connected to 'F:/state_machine/coffee_machine/src/untitled.asdb'.
+# Waveform file 'F:/state_machine/coffee_machine/src/untitled.awc' connected to 'F:/state_machine/coffee_machine/src/untitled.asdb'.
+# Waveform file 'F:/state_machine/coffee_machine/src/untitled.awc' connected to 'F:/state_machine/coffee_machine/src/untitled.asdb'.
